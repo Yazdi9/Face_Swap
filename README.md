@@ -47,6 +47,9 @@
 
 ## Face Swap On Video
 
+ ** Colab <a href="https://colab.research.google.com/drive/11luB-78FmWdpdGwAvjigJge4bJo8pkKM#scrollTo=j6ifzr5I1phS"><img src="https://colab.research.google.com/assets/colab-badge.svg" 
+    alt="google colab logo"></a>
+
   1.download Face Video From this link [[Face Videos](https://www.pexels.com/search/videos/face/)] 
  
 
