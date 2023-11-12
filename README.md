@@ -1,6 +1,12 @@
 # Face Swapping With Deep Fakes Methods
 
+<div align="center">
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabahesaraY)
+
+
+
+</div>
 
 ## Face Swap For Images Results
 <div>
