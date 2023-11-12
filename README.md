@@ -27,6 +27,8 @@
   ```
 
  ## Face Swap On Image
+
+  ** Colab <a href="https://colab.research.google.com/drive/1pLyLbnBma9PiWioMxmyPBn-TWhkI6mqt"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
   
   You may set the target face, and then source will be swapped on this person, or you may skip this parameter, and then source will be swapped on any person in the image.
   ```bash
