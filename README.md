@@ -9,6 +9,9 @@
 
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sabahesaraki)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://medium.com/@saba99)
+
 </div>
 
 ## Installation
