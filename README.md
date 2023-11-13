@@ -1,3 +1,4 @@
+
 # Face Swapping With Deep Fakes Methods
 
 <div align="center">
@@ -55,11 +56,46 @@
 
   2. Face Swap On Video
   
-  Swap to one specific person in the video. You must set face from the target video (for example, crop from any frame).
   ```bash
+  Swap to one specific person in the video. You must set face from the target video (for example, crop from any frame).
+  ```
+
+  
   python inference.py --source_paths {PATH_TO_IMAGE} --target_faces_paths {PATH_TO_IMAGE} --target_video {PATH_TO_VIDEO}
   ```
   Swap to many person in the video. You must set multiple faces for source and the corresponding multiple faces from the target video.
   ```bash
   python inference.py --source_paths {PATH_TO_IMAGE PATH_TO_IMAGE ...} --target_faces_paths {PATH_TO_IMAGE PATH_TO_IMAGE ...} --target_video {PATH_TO_VIDEO}
   ```
+
+  3.Watch the  Results
+
+  <table class="center">
+<tr>
+  <td style="text-align:center;"><b>Source Video</b></td>
+  <td style="text-align:center;"><b>Image for Swapping</b></td>
+  <td style="text-align:center;"><b>Target Video</b></td>
+</tr>
+  
+<tr>
+<td>
+
+https://github.com/saba99/Face_Swap/assets/33378412/811a7222-973b-4935-b040-131ee740bf8f.mp4
+
+</td>
+<td>
+<img src="https://github.com/saba99/Face_Swap/assets/33378412/ec14173b-4a9d-406c-8e02-4d7a34fbd289" width="300px";height:"400px">
+
+
+</td>
+<td>
+
+
+https://github.com/saba99/Face_Swap/assets/33378412/b38810f5-258b-4118-990e-0a6ed2aeaba9.mp4
+
+
+</td>
+
+</tr>
+</table>
+
