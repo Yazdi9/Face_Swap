@@ -97,5 +97,28 @@ https://github.com/saba99/Face_Swap/assets/33378412/b38810f5-258b-4118-990e-0a6e
 </td>
 
 </tr>
+
+<tr>
+<td>
+
+
+https://github.com/saba99/Face_Swap/assets/33378412/23fca2a3-e1c6-4919-8657-a531777113f0.mp4
+
+</td>
+<td>
+<img src="https://github.com/saba99/Face_Swap/assets/33378412/525c84c0-bde2-4ea3-9846-51b8d8f4e90f" width="300px";height:"400px">
+
+
+</td>
+<td>
+
+
+
+https://github.com/saba99/Face_Swap/assets/33378412/4edd8300-0d0c-4c2a-82c3-d9294e412e67
+
+
+</td>
+
+</tr>
 </table>
 
